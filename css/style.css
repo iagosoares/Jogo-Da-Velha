@@ -1,0 +1,60 @@
+body{
+    font-family: 'Redressed', cursive !important;
+
+    background: rgb(90,18,18);
+    background: radial-gradient(circle, rgba(90,18,18,1) 0%, rgba(252,70,70,1) 100%);
+    
+    
+}
+
+div{    
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    
+    
+    
+}
+
+h1{
+    margin: 0 auto !important;
+    font-size: 3.5em !important;    
+    text-align: center;       
+    padding: 20px;
+    color: white;  
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px;  
+}
+
+table{
+    margin-top: 3rem;
+    width: 600px;
+    height: 600px;    
+    text-align: center;
+    font-weight: 900;
+    font-size: 6em;  
+    color: white;     
+
+}
+
+
+
+table td{
+    width: 33.33%;
+    
+        
+}
+
+
+
+.lineR{
+    border-right: 5px solid black;    
+    
+}
+
+.lineB{
+   
+    border-bottom: 5px solid black;
+
+}
+
